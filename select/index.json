@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Sweet Love",
+  "base_artist": "Tielle",
+  "createdAt": "2026-04-02T03:03:36.118711Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "This Sweet Love (Prins Thomas Sneaky Edit)",
+      "artist": "James Yuill",
+      "has_synced": false,
+      "path": "select/01_This_Sweet_Love_(Prins_Thomas_Sneaky_Edit)_James_Yuill.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love Sweet Love - feat. Mr Complex",
+      "artist": "Morcheeba",
+      "has_synced": true,
+      "path": "select/02_Love_Sweet_Love_-_feat._Mr_Complex_Morcheeba.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love Sweet Love",
+      "artist": "Morcheeba",
+      "has_synced": true,
+      "path": "select/03_Love_Sweet_Love_Morcheeba.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love Sweet Love - feat. Mr Complex The Nextmen's Full Vocal Remix",
+      "artist": "Morcheeba",
+      "has_synced": false,
+      "path": "select/04_Love_Sweet_Love_-_feat._Mr_Complex_The_Nextmen's_Full_Vocal_Remix_Morcheeba.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sweet Love",
+      "artist": "Chris Brown",
+      "has_synced": true,
+      "path": "select/05_Sweet_Love_Chris_Brown.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "One Sweet Love",
+      "artist": "Sara Bareilles",
+      "has_synced": true,
+      "path": "select/06_One_Sweet_Love_Sara_Bareilles.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "One Sweet Love",
+      "artist": "Sara Bareilles",
+      "has_synced": true,
+      "path": "select/07_One_Sweet_Love_Sara_Bareilles.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sweet Love Child - Previously Unreleased",
+      "artist": "Europe",
+      "has_synced": true,
+      "path": "select/08_Sweet_Love_Child_-_Previously_Unreleased_Europe.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sweet Love Child (Single B-Side)",
+      "artist": "Europe",
+      "has_synced": true,
+      "path": "select/09_Sweet_Love_Child_(Single_B-Side)_Europe.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "This Sweet Love (Prins Thomas Sneaky Re-Edit)",
+      "artist": "James Yuill",
+      "has_synced": false,
+      "path": "select/10_This_Sweet_Love_(Prins_Thomas_Sneaky_Re-Edit)_James_Yuill.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sweet Love",
+      "artist": "Kaskade",
+      "has_synced": true,
+      "path": "select/11_Sweet_Love_Kaskade.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Don't Cry Sweet Love",
+      "artist": "Anna Oxa",
+      "has_synced": false,
+      "path": "select/12_Don't_Cry_Sweet_Love_Anna_Oxa.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "My Love, Sweet Love",
+      "artist": "Patti LaBelle",
+      "has_synced": true,
+      "path": "select/13_My_Love,_Sweet_Love_Patti_LaBelle.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bye Bye Now My Sweet Love",
+      "artist": "Bonnie Tyler",
+      "has_synced": true,
+      "path": "select/14_Bye_Bye_Now_My_Sweet_Love_Bonnie_Tyler.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Believe In Your Sweet Love (Full Length Version)",
+      "artist": "Bonnie Tyler",
+      "has_synced": true,
+      "path": "select/15_I_Believe_In_Your_Sweet_Love_(Full_Length_Version)_Bonnie_Tyler.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sweet Love",
+      "artist": "Tielle",
+      "has_synced": false,
+      "path": "select/pl_01_Sweet_Love_Tielle.txt"
+    }
+  ]
+}
